@@ -1,0 +1,23 @@
+﻿  SpatialPartition.cpp
+e:\nyp_framework_nat\base\source\spacialpartition\spatialpartition.cpp(52): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+e:\nyp_framework_nat\base\source\spacialpartition\spatialpartition.cpp(110): warning C4018: '<': signed/unsigned mismatch
+e:\nyp_framework_nat\base\source\spacialpartition\spatialpartition.cpp(137): warning C4018: '<': signed/unsigned mismatch
+e:\nyp_framework_nat\base\source\spacialpartition\spatialpartition.cpp(145): warning C4018: '<': signed/unsigned mismatch
+e:\nyp_framework_nat\base\source\spacialpartition\spatialpartition.cpp(156): warning C4018: '<': signed/unsigned mismatch
+e:\nyp_framework_nat\base\source\spacialpartition\spatialpartition.cpp(164): warning C4018: '<': signed/unsigned mismatch
+e:\nyp_framework_nat\base\source\spacialpartition\spatialpartition.cpp(170): warning C4018: '<': signed/unsigned mismatch
+e:\nyp_framework_nat\base\source\spacialpartition\spatialpartition.cpp(211): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\nyp_framework_nat\base\source\spacialpartition\spatialpartition.cpp(213): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Grid.cpp
+e:\nyp_framework_nat\base\source\spacialpartition\grid.cpp(36): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+e:\nyp_framework_nat\base\source\spacialpartition\grid.cpp(37): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+e:\nyp_framework_nat\base\source\spacialpartition\grid.cpp(102): warning C4018: '<': signed/unsigned mismatch
+e:\nyp_framework_nat\base\source\spacialpartition\grid.cpp(113): warning C4018: '<': signed/unsigned mismatch
+e:\nyp_framework_nat\base\source\spacialpartition\grid.cpp(126): warning C4018: '<': signed/unsigned mismatch
+e:\nyp_framework_nat\base\source\spacialpartition\grid.cpp(163): warning C4018: '<': signed/unsigned mismatch
+e:\nyp_framework_nat\base\source\spacialpartition\grid.cpp(193): warning C4018: '<': signed/unsigned mismatch
+e:\nyp_framework_nat\base\source\spacialpartition\grid.cpp(222): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+Application.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Base.vcxproj -> E:\NYP_Framework_Nat\Debug\Base.exe
